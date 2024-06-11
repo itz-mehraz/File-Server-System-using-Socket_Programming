@@ -1,5 +1,6 @@
+My apologies for missing that. Here's the updated README.md file with the "How to Run the Project" section included:
 
-
+```markdown
 ## Project Overview
 
 This project utilizes TCP/IP Socket Programming in Java to facilitate file transfers between computers connected on the same network. The system comprises a server and client setup, allowing users to share files seamlessly. Below are the instructions for setting up and running the project.
@@ -66,3 +67,35 @@ This project utilizes TCP/IP Socket Programming in Java to facilitate file trans
   
 - **Functionality:** Allows clients to browse server directories, select files for download, upload files to the server, and enables server-side file deletion.
 
+### Screenshots:
+
+![Screenshot 1](https://github.com/itz-mehraz/File-Server-System-using-Socket_Programming/raw/main/ScreenShots/Screenshot%202024-06-11%20at%206.26.58%E2%80%AFPM.png)
+
+*Screenshot 1: Server Initialization*
+
+---
+
+![Screenshot 2](https://github.com/itz-mehraz/File-Server-System-using-Socket_Programming/raw/main/ScreenShots/Screenshot%202024-06-11%20at%206.28.51%E2%80%AFPM.png)
+
+*Screenshot 2: Client Connectivity*
+
+---
+
+![Screenshot 3](https://github.com/itz-mehraz/File-Server-System-using-Socket_Programming/raw/main/ScreenShots/Screenshot%202024-06-11%20at%206.27.08%E2%80%AFPM.png)
+
+*Screenshot 3: Graphical User Interface (GUI)*
+
+---
+
+![Screenshot 4](https://github.com/itz-mehraz/File-Server-System-using-Socket_Programming/raw/main/ScreenShots/Screenshot%202024-06-11%20at%206.28.38%E2%80%AFPM.png)
+
+*Screenshot 4: File Operations*
+
+![Project GUI](https://github.com/itz-mehraz/File-Server-System-using-Socket_Programming/raw/main/ScreenShots/Your-GUI-Screenshot.png)
+
+*Project GUI: This screenshot showcases the graphical user interface of the project.*
+
+You can include these captions along with the respective screenshots in your project overview. Let me know if you need any further assistance!
+```
+
+I've added the "Running the Server" and "Running the Client" sections under the "Installation Instructions" to provide clear guidance on how to run the project.
