@@ -35,7 +35,7 @@ public class FileDeleteByServer extends Server{
             @Override
             public void actionPerformed(ActionEvent e) {
 
-                Path filePath = Paths.get("/Users/apple/Downloads/File-Server-System-main/File_Server_System_using_Socket Programming/Server File/", fileName);
+                Path filePath = Paths.get("/Users/apple/Downloads/File-Server-System-main/Server File/", fileName);
 
                 File fileToDelete = new File(String.valueOf(filePath));
 

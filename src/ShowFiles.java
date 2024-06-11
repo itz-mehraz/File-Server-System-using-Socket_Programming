@@ -22,7 +22,7 @@ public class ShowFiles extends Client{
         downloadedFile.clear();
 
         int fileId = 0;
-        File dic = new File("/Users/apple/Downloads/File-Server-System-main/File_Server_System_using_Socket Programming/Server File");
+        File dic = new File("/Users/apple/Downloads/File-Server-System-main/Server File");
 
         File[] dicList = dic.listFiles();
         int i=0;

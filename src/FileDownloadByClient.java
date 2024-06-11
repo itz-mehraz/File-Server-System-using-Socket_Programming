@@ -32,7 +32,7 @@ public class FileDownloadByClient extends Client {
         jbYes.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                File directory = new File("/Users/apple/Downloads/File-Server-System-main/File_Server_System_using_Socket Programming/Client File/");
+                File directory = new File("/Users/apple/Downloads/File-Server-System-main/Client File/");
                 if (!directory.exists()) {
                     if (!directory.mkdirs()) {
                         JOptionPane.showMessageDialog(jFrame, "Failed to create directory.", "Error", JOptionPane.ERROR_MESSAGE);

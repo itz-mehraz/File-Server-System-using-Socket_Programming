@@ -52,7 +52,7 @@ public class ServerController {
                     fileId++;
                     ReadFiles.readAllFile();
 
-                    File fileToDownload = new File("/Users/apple/Downloads/File-Server-System-main/File_Server_System_using_Socket Programming/Server File/" + fileName);
+                    File fileToDownload = new File("/Users/apple/Downloads/File-Server-System-main/Server File/" + fileName);
 
 
                     FileOutputStream fileOutputStream = new FileOutputStream(fileToDownload);

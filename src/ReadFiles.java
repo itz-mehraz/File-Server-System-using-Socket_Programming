@@ -8,7 +8,7 @@ public class ReadFiles extends Server {
     public static void readAllFile() {
 
         int fileId = 1; // 0
-        File dFile = new File("/Users/apple/Downloads/File-Server-System-main/File_Server_System_using_Socket Programming/Server File/");
+        File dFile = new File("/Users/apple/Downloads/File-Server-System-main/Server File/");
         File[] listOfALLFiles = dFile.listFiles();
 
         // Check if the directory exists and contains files
