@@ -78,6 +78,3 @@ This project utilizes TCP/IP Socket Programming in Java to facilitate file trans
 ![Project GUI:](https://github.com/itz-mehraz/File-Server-System-using-Socket_Programming/blob/main/ScreenShots/Your-GUI-Screenshot.png)
 
 *Project GUI: This screenshot showcases the graphical user interface of the project.*
-
-You can include these captions along with the respective screenshots in your project overview. Let me know if you need any further assistance!
-```
